@@ -29,5 +29,5 @@ git sttus
 git add .
 git sttsi
 it commit -m "f2c2"
-git push origin feature2actula
+git push origin feature2actulalll
 
