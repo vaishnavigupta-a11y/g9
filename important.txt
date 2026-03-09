@@ -1,0 +1,12 @@
+industu porcess  if no readme fild presnt means empty to jo deafult branvh bnegi vs code,github m wo feature 1 hi hogi pullpr ke trh trrat ni hogi main branch ki trh treat hogi\
+
+git clone url
+cd 
+project clone 
+then nw branch craete 
+git checkout -b fetaure1
+thenn cahnges
+git status
+git add .
+git commit -m "fc1"
+git push -u origin feature1
