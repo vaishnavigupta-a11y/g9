@@ -1,0 +1,33 @@
+industu porcess  if no readme fild presnt means empty to jo deafult branvh bnegi vs code,github m wo feature 1 hi hogi pullpr ke trh trrat ni hogi main branch ki trh treat hogi\
+
+git clone url
+cd 
+project clone 
+then nw branch craete 
+git checkout -b fetaure1
+thenn cahnges
+git status
+git add .
+git commit -m "fc1"
+git push -u origin feature1
+
+tehn eske baad ar koi bhi new branch banakr usme change krorge then wo pull req ki trh taraet hogo
+ex 
+git checkout -b feature2actual
+changes in file'
+git status
+git add ,
+git status
+git commit -m "f2c1"
+git push origin feature2actual
+
+
+
+if in futur esome caheg occur then git
+do some changes
+git sttus 
+git add .
+git sttsi
+it commit -m "f2c2"
+git push origin feature2actulalll
+
